@@ -6,26 +6,29 @@ const sortQuestions = (questions: { points: number; question: string; answer: st
 const pastQuestions: Question[] = sortQuestions([
     {
         points: 100,
-        question: 'What US state is the Land of Lincoln?',
-        answer: 'Illinois',
+        question: 
+            'What country\'s flag is this',
+        imgSrc: "https://cdn.britannica.com/73/6073-050-4D6FDAF6/Flag-Austria.jpg",
+        answer: 'Austria',
     },
     {
         points: 200,
         question:
-            'Which country\'s flag is this?',
-        imgSrc: "https://cdn.britannica.com/34/4034-050-91EE1BCF/Flag-Myanmar.jpg",
-        answer: 'Myanmar',
+            'What school\'s emblem is this?',
+        imgSrc: "https://world-schools.com/wp-content/uploads/2023/03/dwight-global-logo-200x200-1.webp",
+        answer: 'Dwight',
     },
     {
         points: 300,
         question:
-            'What Ivy League school has the highest Native American enrollment (a whoppping 1%)?',
-        answer: 'Dartmouth',
+            'What mountain is this?',
+        imgSrc: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mount_Sinai_from_the_southwest.jpg/1200px-Mount_Sinai_from_the_southwest.jpg",
+        answer: 'Mount Sinai',
     },
     {
         points: 400,
-        question: 'Who wrote the Critique of Pure Reason?',
-        answer: 'Immanuel Kant',
+        question: 'Who won the 2025 Four Nations Hockey Tournament?',
+        answer: 'Canada',
     }
 ]);
 
@@ -41,9 +44,8 @@ const presentQuestions: Question[] =
         {
             points: 100,
             question:
-                'What is this Cafe called?',
-            imgSrc: 'https://lh3.googleusercontent.com/p/AF1QipNsmB0ugJeJxYVrBKpRkNkyiEa6cKLamFZ4r0M=s1360-w1360-h1020',
-            answer: 'Chaotic Good',
+                'I am 15!/87178291200 years old. How old am I?',
+            answer: '15',
         },
         {
             points: 300,
