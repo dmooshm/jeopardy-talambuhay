@@ -37,9 +37,9 @@ const presentQuestions: Question[] =
         {
             points: 200,
             question:
-                'What kind of rock is this?',
-            imgSrc: 'https://madera.objects.liquidweb.services/photos/16842-half-dome-closeup-from-glacier-point-steve-montalto-hmi-Rectangle-600x400.jpg',
-            answer: 'Granite',
+                'What is the NFL team in the AFC North with Purple as its primary color?',
+            imgSrc: 'https://yt3.googleusercontent.com/w1Z-Dn0Xuzd4gpBs9YDFY6jIiiE_Uw2lBfthEQthSnTt1UcWsUGYpqmFjuvR6GLG1yQEsY7Y=s900-c-k-c0x00ffffff-no-rj',
+            answer: 'Ravens || Baltimore Ravens',
         },
         {
             points: 100,
@@ -56,10 +56,10 @@ const presentQuestions: Question[] =
         {
             points: 400,
             question:
-                'Who painted this?',
+                'What type of plane is this?',
             imgSrc:
-                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb1tCOwOdOeYcp5iflCvvW95qCqpmNUo-TMIt3ndxzsxzmgmH18iClIIQLPO48ojPg5Rts2AUm9rZBeVPcjnjrjGaLSzCwbipQotY4EhOk3tUoHJjJyZjTqfY5s9MZ5eSkGrrqmom4JXUdHEqE-Ts8E9i-SuFf9xEukJcFBs5NuOhe6ANdODMFYzyV_Q/s16000/Unfinished.jpg",
-            answer: 'Keith Haring',
+                "https://vegasaviation.com/wp-content/uploads/2024/04/cessna.jpg",
+            answer: 'Cessna 172',
         }
     ]);
 const futureQuestions: Question[] = sortQuestions([
