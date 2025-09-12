@@ -39,19 +39,19 @@ const presentQuestions: Question[] =
             question:
                 'What is the NFL team in the AFC North with Purple as its primary color?',
             imgSrc: 'https://yt3.googleusercontent.com/w1Z-Dn0Xuzd4gpBs9YDFY6jIiiE_Uw2lBfthEQthSnTt1UcWsUGYpqmFjuvR6GLG1yQEsY7Y=s900-c-k-c0x00ffffff-no-rj',
-            answer: 'Ravens || Baltimore Ravens',
+            answer: 'Baltimore Ravens',
         },
         {
             points: 100,
             question:
-                'I am 15!/87178291200 years old. How old am I?',
+                'I am 15!/14! years old. How old am I?',
             answer: '15',
         },
         {
             points: 300,
-            question: 'What programming language is the below code?',
-            imgSrc: '/programming_language.png',
-            answer: 'Javascript',
+            question:
+                'What is the name of a foresail that overlaps the mast in a sailboat?',
+            answer: 'Genoa',
         },
         {
             points: 400,
