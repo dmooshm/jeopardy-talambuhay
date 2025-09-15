@@ -66,11 +66,31 @@ const futureQuestions: Question[] = sortQuestions([
     {
         points: 100,
         question:
-            'This country is home to the Dolomites, which are a mountain range that has historical \'via ferratas\', iron cables and rungs, to aid traversing the peaks?',
+            'What university is this?',
         imgSrc:
-            "https://laguidalpina.it/cdn/shop/products/ferrata-marmolada-cresta-ovest-Cristiano-Gregnanin-Guida-Alpina-Certificata-Dolomiti-5.jpg?v=1738870778",
-        answer: 'Italy',
-    }
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDFq5wKktyhpmM9hOT06s-vEDuTaP_W_v0lw&s",
+        answer: 'University of British Columbia',
+    },
+    {
+        points: 200,
+        question:
+            'What is this largest city in Nova Scotia?',
+        imgSrc:
+            "https://novascotia.com/wp-content/uploads/2024/11/QueensMarque_Sunrise_23.webp",
+        answer: 'Halifax',
+    },
+    {
+        points: 300,
+        question:
+            'Which country hosts the Jewel Changi Airport?',
+        answer: 'Singapore',
+    },
+    {
+        points: 400,
+        question:
+            'What country produces the most milk?',
+        answer: 'United States',
+    },
 ]);
 
 
